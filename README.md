@@ -5,6 +5,6 @@ Tic Tac Toe.
 
 Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programming-challenge/TicTacToe/index.html)
 
-Question 2: Tomiwa writes on a BlackBoard 
+Question 2: Tomiwa writes on a BlackBoard.
 
 Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programming-challenge/Tomiwa-BlackBoard/index.html)
