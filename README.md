@@ -7,4 +7,4 @@ Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programmi
 
 Question 2: Tomiwa writes on a BlackBoard.
 
-Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programming-challenge/Tomiwa-BlackBoard/index.html)
+Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programming-challenge/Numbers%20on%20blackboard/index.html)
