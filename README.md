@@ -1,9 +1,9 @@
 # Aleph Fellowship Programming Challenge
 
-Question 1: Tic Tac Toe
-Tic Tac Toe.
+Question 1: Tic Tac Toe.
 
-Live Demo: [Click Here](https://itzadetunji.github.io/aleph-fellowship-programming-challenge/Tic-Tac-Toe/index.html)
+
+Live Demo: [Click Here](https://itzadetunji.githb.io/aleph-fellowship-programming-challenge/Tic%20Tac%20Toe/index.html)
 
 Question 2: Tomiwa writes on a BlackBoard.
 
